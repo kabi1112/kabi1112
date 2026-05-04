@@ -123,13 +123,6 @@ Email      : kabilanmaadhu@gmail.com
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<!-- 💡 Change theme: dark | radical | merko | gruvbox | tokyonight | onedark | cobalt | synthwave | dracula -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=kabi1112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&rank_icon=github&count_private=true" width="48%" alt="Kabilan's GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabi1112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" width="42%" alt="Top Languages"/>
 
 </div>
 
