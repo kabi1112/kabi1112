@@ -79,7 +79,7 @@ Email      : kabilanmaadhu@gmail.com
 
 <div align="center">
 
-| 🔭 Currently Building | 🌱 Currently Learning | 💬 Ask Me About | 🎯 2025 Goal |
+| 🔭 Currently Building | 🌱 Currently Learning | 💬 Ask Me About | 🎯 2026 Goal |
 |:-:|:-:|:-:|:-:|
 | Full-stack Django projects | REST APIs & Django REST Framework | Python, Django, HTML/CSS/JS | Land a developer role & contribute to open source |
 
